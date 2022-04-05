@@ -1,3 +1,7 @@
+---
+description: Course Summary Notes
+---
+
 # 5 Personal Financial Tips
 
 Tip 01: On Spending
