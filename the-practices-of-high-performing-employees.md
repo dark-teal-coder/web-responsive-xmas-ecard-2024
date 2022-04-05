@@ -1,3 +1,7 @@
+---
+description: Course Summary Notes
+---
+
 # The Practices of High-Performing Employees
 
 Video: Three Keys: Talent, Motivation, and Support
