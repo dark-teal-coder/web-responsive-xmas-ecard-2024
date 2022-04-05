@@ -8,3 +8,4 @@
 * [Developing a YouTube Strategy](developing-a-youtube-strategy.md)
 * [Women Transforming Tech Breaking Bias](women-transforming-tech-breaking-bias.md)
 * [Learning FTP](learning-ftp.md)
+* [Understanding Business](understanding-business.md)

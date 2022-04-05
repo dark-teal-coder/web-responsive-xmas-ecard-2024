@@ -1,3 +1,7 @@
+---
+description: Course Summary Notes
+---
+
 # Learning FTP
 
 Video: Welcome
