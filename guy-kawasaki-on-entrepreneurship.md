@@ -1,5 +1,5 @@
 ---
-description: Video Course on LinkedIn Learning
+description: Video Course Notes
 ---
 
 # Guy Kawasaki on Entrepreneurship
