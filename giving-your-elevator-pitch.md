@@ -1,3 +1,7 @@
+---
+description: Course Summary Notes
+---
+
 # Giving Your Elevator Pitch
 
 Video: Benefits to an Elevator Speech
