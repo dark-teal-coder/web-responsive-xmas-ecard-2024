@@ -9,3 +9,4 @@
 * [Women Transforming Tech Breaking Bias](women-transforming-tech-breaking-bias.md)
 * [Learning FTP](learning-ftp.md)
 * [Understanding Business](understanding-business.md)
+* [The Practices of High-Performing Employees](the-practices-of-high-performing-employees.md)
