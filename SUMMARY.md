@@ -6,3 +6,4 @@
 * [5 Personal Financial Tips](5-personal-financial-tips.md)
 * [43 Ideas for Starting a Side Business](43-ideas-for-starting-a-side-business.md)
 * [Developing a YouTube Strategy](developing-a-youtube-strategy.md)
+* [Women Transforming Tech Breaking Bias](women-transforming-tech-breaking-bias.md)
