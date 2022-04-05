@@ -1,3 +1,7 @@
+---
+description: Course Summary Notes
+---
+
 # 43 Ideas for Starting a Side Business
 
 Idea 01: Wholesale a Real Estate Deal
