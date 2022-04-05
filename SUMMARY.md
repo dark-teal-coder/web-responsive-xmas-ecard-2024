@@ -11,3 +11,4 @@
 * [Understanding Business](understanding-business.md)
 * [The Practices of High-Performing Employees](the-practices-of-high-performing-employees.md)
 * [Women Transforming Tech Career Insights](women-transforming-tech-career-insights.md)
+* [Women Transforming Tech Networking](women-transforming-tech-networking.md)
