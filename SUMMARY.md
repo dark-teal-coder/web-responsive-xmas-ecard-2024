@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Guy Kawasaki on Entrepreneurship](README.md)
+* [Course List](README.md)
+* [Guy Kawasaki on Entrepreneurship](guy-kawasaki-on-entrepreneurship.md)
 * [Giving Your Elevator Pitch](giving-your-elevator-pitch.md)
 * [Women Transforming Tech Building Your Brand](women-transforming-tech-building-your-brand.md)
 * [5 Personal Financial Tips](5-personal-financial-tips.md)
