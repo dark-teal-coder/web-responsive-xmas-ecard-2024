@@ -16,8 +16,8 @@ Video: The Implicit Rules of Work
 
 * How to read hidden rules of work, to navigate them and to discover tools that help us get beyond the barriers
 * Hidden rules:
-* Visibility
-* Be known for the skills your organization values
+  * Visibility
+  * Be known for the skills your organization values
 * Having visibility through your assignment
 * Likeability penalty
 * Ask for stretch assignment that gives you visibility without evoking likeability penalty

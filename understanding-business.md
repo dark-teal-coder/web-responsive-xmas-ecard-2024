@@ -7,7 +7,6 @@ description: Course Summary Notes
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
-*
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
 * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
@@ -69,7 +68,6 @@ Video: Financial Basics
 Video: Maximizing Return on Investment (ROI)
 
 * Finance team: responsible for acquiring the cash & figuring out how to best use the money
-*
 * ROI as a percentage representing how much your initial investment has grown
 * E.g., Investing $100,000 to start a coffee shop and selling it for $250,000 four years later, profit/return of $150,000, ROI = 1.5 or 150% (return 1.5 times greater than the initial investment)
 * Marketing report: about the number of expected customers and how much they are likely to spend
