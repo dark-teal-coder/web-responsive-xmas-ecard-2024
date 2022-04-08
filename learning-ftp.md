@@ -2,7 +2,7 @@
 description: Course Summary Notes
 ---
 
-# Learning FTP
+# Learning FTP (format not done)
 
 Video: Welcome
 
@@ -10,16 +10,22 @@ Video: Welcome
 * FTP is a common way of moving files around across networks and the internet
 * Popular for managing files on host services
 
+
+
 Video: What You Should Know
 
 * Be familiar with using your operating system
 * Be comfortable installing applications
 * This course is built around the idea of working with files on a web host
 
+
+
 Video: Using the Exercise Files
 
 * Access to your own server to follow along with this course
 * Or, download these files on the course homepage
+
+
 
 Video: What Is FTP?
 
@@ -56,6 +62,8 @@ Video: What Is FTP?
 * Home folder: landing place in the file system after login
 * Able to be shared on a web host
 
+
+
 Video: Connecting to An FTP Server Using Client Software
 
 * To connect to an FTP server:
@@ -76,6 +84,8 @@ Video: Connecting to An FTP Server Using Client Software
 * \[Toggle directory comparison] feature in the toolbar: compare files between local and remote folders
 * To disconnect: click \[Cancels the current operation] button in the toolbar
 
+
+
 Video: Connecting to An FTP Server with A Web Browser
 
 * FTP server’s URL into the browser to see a representation of the folders on the server
@@ -93,11 +103,15 @@ Video: Connecting to An FTP Server with Windows Explorer
 * To add a network location: click \[Add a network location] in the ribbon > click \[Next] > choose \[Choose a custom network location] > click \[Next] > enter {FTP connection URL} into \[Internet or network address] > uncheck \[Log on anonymously] > enter \[User name] > click \[Next] > enter \[Type a name for this network location] > click \[Next] > check \[Open this network location when I click Finish] > click \[Finish] > enter credentials > click \[Log On]
 * Handy shortcut to the FTP server at \[This PC] under \[Network locations]
 
+
+
 Video: Connecting to An FTP Server from Linux
 
 * File manager of a Linux GUI is able to connect to FTP servers
 * Gnome environment: click \[Files] on menu > choose \[Connect to Server] > enter FTP path into \[Server Address] > choose \[Registered User] > enter credentials > click \[Connect]
 * To end: click \[Eject] on the network in the sidebar
+
+
 
 Video: Connecting to FTP from The Command Line
 
@@ -160,6 +174,8 @@ Video: Connecting to FTP from The Command Line
 * To see a list of commands available: type \[?]
 * To exit FTP: type \[bye]
 
+
+
 Video: Exploring SFTP
 
 * SFTP: SSH file transfer protocol
@@ -176,6 +192,12 @@ Video: Exploring SFTP
 * E.g., sftp -oPort=2222 preesa@example.com
 * In case @ sign in the username: type \[sftp] + \[-oUser=] + {username} + \[@] + {domain in the username} + {server’s domain}
 * E.g., sftp -oUser=preesa@webhost.com example.com
+
+
+
+
+
+
 
 URL: [https://www.linkedin.com/learning/learning-ftp](https://www.linkedin.com/learning/learning-ftp)
 

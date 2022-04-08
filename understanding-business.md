@@ -2,7 +2,7 @@
 description: Course Summary Notes
 ---
 
-# Understanding Business
+# Understanding Business (format not done)
 
 Video: Making a Profit
 
