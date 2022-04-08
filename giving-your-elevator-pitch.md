@@ -17,29 +17,33 @@ Video: Benefits to an Elevator Speech
   * Work ethic
   * Networking
 
+
+
 Video: Making an Initial Connection
 
 * Elevator pitch structure:
-  * Summary label
-  * Professional background
-  * Current position/situation
-  * Future aspirations &#x20;
+  1. Summary label
+  2. Professional background
+  3. Current position/situation
+  4. Future aspirations &#x20;
 * 15-20 seconds
 * Pitch as a form of interpersonal communication
-* To make others want to know more about you
+  * To make others want to know more about you
 * Build connection:
   * Inform people
-  * Who you are professionally
-  * Where you have been
-  * Where you are going
-* Help people
-* Look for opportunities to help people
-* Books website and professional organizations, etc. of use to them
-* Relate to people
-* Sports, children and professional experiences, etc.
+    * Who you are professionally
+    * Where you have been
+    * Where you are going
+  * Help people
+    * Look for opportunities to help people
+    * Books website and professional organizations, etc. of use to them
+  * Relate to people
+    * Sports, children and professional experiences, etc.
 * Goal of using pitch to connect to people:
-* Not to gain benefits now
-* Planting as many seeds as possible and not knowing when they will sprout and grow in the future – people may be able to help you in the future
+  * Not to gain benefits now
+  * Planting as many seeds as possible and not knowing when they will sprout and grow in the future – people may be able to help you in the future
+
+
 
 Video: Structuring Your Pitch
 
@@ -53,6 +57,8 @@ Video: Structuring Your Pitch
   * Distinctive
   * Memorable
 
+
+
 Video: Making Your Pitch Stick
 
 * Making a connection:
@@ -60,6 +66,12 @@ Video: Making Your Pitch Stick
   * Never ask for anything
   * Know your audience
   * Ensure a lasting connection
+
+
+
+
+
+
 
 URL: [https://www.linkedin.com/learning/giving-your-elevator-pitch](https://www.linkedin.com/learning/giving-your-elevator-pitch)
 
