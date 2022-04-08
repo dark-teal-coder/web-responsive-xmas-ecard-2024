@@ -7,6 +7,15 @@ description: Course Summary Notes
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
+* \$$a + b\$$
+
+$$
+𝑃𝑟𝑜𝑓𝑖𝑡=𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡
+$$
+
+
+
+* 𝑃𝑟𝑜𝑓𝑖𝑡=𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
 * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
@@ -14,6 +23,8 @@ Video: Making a Profit
 * Tough job to manage a company to profitability
 * E.g., Increasing marketing costs might sell more coffee but the revenue might not be big enough to cover the advertising costs
 * E.g., Buying cheaper coffee beans would decrease material costs but customers might not like cheap coffees and stop buying from us
+
+
 
 Video: Parts of the Business
 
@@ -27,6 +38,8 @@ Video: Parts of the Business
 * Information technology: collecting, storing and sharing data and information
 * Human resources: hiring and retaining good employees
 
+
+
 Video: Three Flows
 
 * Elements of continuous flow:
@@ -38,6 +51,8 @@ Video: Three Flows
 * Information: information helps anticipate the next order
 * E.g., Suppliers want to know how much products have been sold and how much left in the inventory
 * Every employee contributes to good flow
+
+
 
 Video: Financial Basics
 
@@ -65,6 +80,8 @@ Video: Financial Basics
 * Venture capital funding: selling ownership in the company to private investors
 * For small businesses
 
+
+
 Video: Maximizing Return on Investment (ROI)
 
 * Finance team: responsible for acquiring the cash & figuring out how to best use the money
@@ -72,6 +89,8 @@ Video: Maximizing Return on Investment (ROI)
 * E.g., Investing $100,000 to start a coffee shop and selling it for $250,000 four years later, profit/return of $150,000, ROI = 1.5 or 150% (return 1.5 times greater than the initial investment)
 * Marketing report: about the number of expected customers and how much they are likely to spend
 * Operations report: about estimated profit margins
+
+
 
 Video: Marketing Basics
 
@@ -90,6 +109,8 @@ Video: Marketing Basics
 * Focus groups’ responses to new products
 * Competitor behaviors
 
+
+
 Video: Branding
 
 * Companies define their values to customers through their branding
@@ -99,6 +120,8 @@ Video: Branding
 * Ads, commercials and social media posts
 * Company reputation
 * Product impressions
+
+
 
 Video: Supply Chain Basics
 
@@ -114,6 +137,8 @@ Video: Supply Chain Basics
 * Choosing trucking and shipping companies to move items
 * Tracking items
 
+
+
 Video: Efficient Operations
 
 * Using minimal resources
@@ -124,6 +149,8 @@ Video: Efficient Operations
 * E.g., Testing coffee to keep the taste good and consistent
 * Developing business processes
 * E.g., Developing, documenting and communicating business processes for every menu item
+
+
 
 Video: Accounting Basics
 
@@ -138,6 +165,8 @@ Video: Accounting Basics
 * Report for executives inside the company
 * Financial accountants:
 * Develop financial reports for investors, potential investors and leading companies
+
+
 
 Video: Human Resources Basics
 
@@ -157,6 +186,8 @@ Video: Human Resources Basics
 * Developing fun activities and events
 * Developing programs to help employees improve their work skills
 
+
+
 Video: Information Technology Basics
 
 * Responsibilities:
@@ -164,6 +195,8 @@ Video: Information Technology Basics
 * Processing data
 * Keeping data secure
 * Technology infrastructure tools: financial software, logistics management, customer relationship management, HR system, etc.
+
+
 
 Video: Getting Ahead in Business
 
@@ -173,6 +206,12 @@ Video: Getting Ahead in Business
 * Develop skills the company needs
 * Make your manager’s job easier
 * Demonstrate leadership
+
+
+
+
+
+
 
 URL: [https://www.linkedin.com/learning/understanding-business](https://www.linkedin.com/learning/understanding-business)
 
