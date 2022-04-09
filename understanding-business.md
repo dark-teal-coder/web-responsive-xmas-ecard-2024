@@ -7,9 +7,11 @@ description: Course Summary Notes
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
+```markdown
 $$
 𝑃𝑟𝑜𝑓𝑖𝑡=𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡
 $$
+```
 * ![Profit&space;=&space;Revenue&space;-&space;Cost](https://latex.codecogs.com/svg.image?Profit&space;=&space;Revenue&space;-&space;Cost)
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
