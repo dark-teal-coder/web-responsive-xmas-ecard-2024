@@ -11,20 +11,24 @@ Video: How to Think about Networking
 * Networks are as fragile as the amount of time and effort put into the care and maintenance of the connections
 * Ask what you can do for your network
 
+
+
 Video: Tools for Authentic Connection
 
 * Find one point where common stories converge
 * Professional network:
-* Not necessary to know people on the personal level
-* If it does not work, just move on
+  * Not necessary to know people on the personal level
+  * If it does not work, just move on
 * Personal network:
-* Wanting to know more about them
-* Wanting to learn something from them
+  * Wanting to know more about them
+  * Wanting to learn something from them
 * Steps to start networking:
-* Do your research to identify who to connect with
-* Look for smaller opportunities around the larger events
-* Engage with the conference speakers
-* Focus on what you can learn at networking events
+  1. Do your research to identify who to connect with
+  2. Look for smaller opportunities around the larger events
+  3. Engage with the conference speakers
+  4. Focus on what you can learn at networking events
+
+
 
 Video: Who to Network With
 
@@ -33,25 +37,29 @@ Video: Who to Network With
 * Within your industry, network with people at higher levels than your role
 * Outside of your industry, network with people with diverse skill sets
 
+
+
 Video: Strategies for Networking Success
 
 * Networking questions to ask yourself:
-* What am I learning through this connection?
-* Would I want to work with this person?
+  * What am I learning through this connection?
+  * Would I want to work with this person?
 * Networks and communities require constantly tending and cultivating for them to be healthy
 * Group your network connections
-* Core network:
-* About your support system
-* Not about careers or jobs
-* Intentional about sustaining the relationships
-* Current network:
-* People important to you for the time you are in
-* Connect with them on social media
-* Find something to do together to sustain the relationships
-* Broader community:
-* Weaker ties
-* Keep them healthy by connecting them to other people, who can care for them
+  1. Core network:
+     * About your support system
+     * Not about careers or jobs
+     * Intentional about sustaining the relationships
+  2. Current network:
+     * People important to you for the time you are in
+     * Connect with them on social media
+     * Find something to do together to sustain the relationships
+  3. Broader community:
+     * Weaker ties
+     * Keep them healthy by connecting them to other people, who can care for them
 * Networking is about building trusted relationships
+
+
 
 Video: Connecting Others
 
@@ -61,6 +69,12 @@ Video: Connecting Others
 * Can my identity help to connect others?
 * Can my experience help build connections?
 * How can my location build connections?
+
+
+
+
+
+
 
 URL: [https://www.linkedin.com/learning/women-transforming-tech-networking](https://www.linkedin.com/learning/women-transforming-tech-networking)
 
