@@ -7,7 +7,7 @@ description: Course Summary Notes
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
-* ![Profit&space;=&space;Revenue&space;-&space;Cost](https://latex.codecogs.com/svg.image?Profit&space;=&space;Revenue&space;-&space;Cost)
+* ![Profit&space;=&space;Revenue&space;-&space;Cost](https://latex.codecogs.com/svg.image?Profit&space;=&space;Revenue&space;-&space;Cost#gh-dark-mode-only)
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
   * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
