@@ -12,6 +12,8 @@ $$
 𝑃𝑟𝑜𝑓𝑖𝑡=𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡
 $$
 
+Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
   * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
