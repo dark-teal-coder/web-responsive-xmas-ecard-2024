@@ -66,9 +66,9 @@ Video: Connecting Others
 * Be authentic
 * Help people
 * When connecting someone, ask yourself these questions:
-* Can my identity help to connect others?
-* Can my experience help build connections?
-* How can my location build connections?
+  1. Can my identity help to connect others?
+  2. Can my experience help build connections?
+  3. How can my location build connections?
 
 
 
