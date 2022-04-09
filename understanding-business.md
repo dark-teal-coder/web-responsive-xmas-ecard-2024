@@ -12,7 +12,9 @@ $$
 𝑃𝑟𝑜𝑓𝑖𝑡=𝑅𝑒𝑣𝑒𝑛𝑢𝑒−𝐶𝑜𝑠𝑡
 $$
 
-Let $\text{S}_1(N) = \sum_{p=1}^N \text{E}(p)$
+https://latex.codecogs.com/svg.image?y&space;=&space;\frac{a}{b}
+
+![y&space;=&space;\frac{a}{b}](https://latex.codecogs.com/svg.image?y&space;=&space;\frac{a}{b})
 
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
