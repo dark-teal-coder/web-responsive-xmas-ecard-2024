@@ -10,6 +10,8 @@ Video: Making a Profit
 * ![Profit&space;=&space;Revenue&space;-&space;Cost](https://latex.codecogs.com/svg.image?Profit&space;=&space;Revenue&space;-&space;Cost#gh-dark-mode-only)
 * ![White equation](https://latex.codecogs.com/svg.image?\inline&space;\bg{white}Profit&space;=&space;Revenue&space;-&space;Cost)
 * ![Black equation](https://latex.codecogs.com/svg.image?\inline&space;\bg{black}Profit&space;=&space;Revenue&space;-&space;Cost)
+* ![PNG Black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Profit&space;=&space;Revenue&space;-&space;Cost)
+* ![PNG White](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{white}Profit&space;=&space;Revenue&space;-&space;Cost)
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
   * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
