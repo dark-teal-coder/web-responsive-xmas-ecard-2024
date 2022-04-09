@@ -76,8 +76,10 @@ Video: Financial Basics
 
 Video: Maximizing Return on Investment (ROI)
 
+<img src="https://render.githubusercontent.com/render/math?math=Return\:on\:Investment\:(ROI) = \frac{Return/Profit}{Total\:Investment}">
+
 * Finance team: responsible for acquiring the cash & figuring out how to best use the money
-* ![roi-equation-black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Return&space;on&space;Investment&space;(ROI)&space;=&space;\frac{Return/Profit}{Total&space;Investment}&space;) <!-- bg{black} for dark theme; bg{white} for white theme -->
+* ![roi-equation-black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Return&space;on&space;Investment&space;(ROI)&space;=&space;\frac{Return/Profit}{Total&space;&space;Investment}&space;) <!-- bg{black} for dark theme; bg{white} for white theme -->
 * ROI as a percentage representing how much your initial investment has grown
   * E.g., Investing $100,000 to start a coffee shop and selling it for $250,000 four years later, profit/return of $150,000, ROI = 1.5 or 150% (return 1.5 times greater than the initial investment)
 * Marketing report: about the number of expected customers and how much they are likely to spend
