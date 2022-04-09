@@ -75,6 +75,9 @@ Video: Financial Basics
 
 
 Video: Maximizing Return on Investment (ROI)
+<img src="https://render.githubusercontent.com/render/math?math=Return\:on\:Investment\:(ROI) = \frac{Return/Profit}{Total\:Investment}" alt="ROI equation">
+
+![ROI equation](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Return\hspace{0.3em}on\hspace{0.3em}Investment\hspace{0.3em}(ROI)\&space;=\&space;\frac{\frac{Return}{Profit}}{Total\hspace{0.3em}Investment})
 
 * Finance team: responsible for acquiring the cash & figuring out how to best use the money
 * ![roi-equation-black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Return\hspace{0.3em}on\hspace{0.3em}Investment\hspace{0.3em}(ROI)\&space;=\&space;\frac{\frac{Return}{Profit}}{Total\hspace{0.3em}Investment}) <!-- bg{black} for dark theme; bg{white} for white theme -->
