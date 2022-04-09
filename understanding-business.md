@@ -7,10 +7,9 @@ description: Course Summary Notes
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
-<!-- CodeCogs URL for dark theme --> 
-* ![PNG Black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Profit&space;=&space;Revenue&space;-&space;Cost)
+* ![profit-equation-black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Profit&space;=&space;Revenue&space;-&space;Cost) <!-- CodeCogs URL for dark theme --> 
 <!-- CodeCogs URL for light theme --> 
-<!-- * ![PNG White](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{white}Profit&space;=&space;Revenue&space;-&space;Cost) -->
+* ![profit-equation-white](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{white}Profit&space;=&space;Revenue&space;-&space;Cost) <!-- CodeCogs URL for light theme -->
 * Revenue: amount of money collected from customers
 * Companies have multiple revenue streams
   * E.g., Starbucks: (1) collecting money by selling coffee, food and other merchandise at their stores, (2) selling the ingredients and equipment used to make food and coffee to certified Starbucks shops, (3) selling Starbucks coffee beans and pre-packaged beverages in grocery stores, etc.
@@ -80,6 +79,9 @@ Video: Financial Basics
 Video: Maximizing Return on Investment (ROI)
 
 * Finance team: responsible for acquiring the cash & figuring out how to best use the money
+
+* ![roi-equation-black](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{black}Return&space;on&space;Investment&space;(ROI)&space;=&space;\frac{Return/Profit}{Total&space;Investment})
+* ![roi-equation-white](https://latex.codecogs.com/png.image?\inline&space;\dpi{110}\bg{white}Return&space;on&space;Investment&space;(ROI)&space;=&space;\frac{Return/Profit}{Total&space;Investment})
 * 𝑅𝑒𝑡𝑢𝑟𝑛𝑜𝑛𝐼𝑛𝑣𝑒𝑠𝑡𝑚𝑒𝑛𝑡(𝑅𝑂𝐼)=𝑅𝑒𝑡𝑢𝑟𝑛/𝑃𝑟𝑜𝑓𝑖𝑡𝑇𝑜𝑡𝑎𝑙𝐼𝑛𝑣𝑒𝑠𝑡𝑚𝑒𝑛𝑡
 * ROI as a percentage representing how much your initial investment has grown
   * E.g., Investing $100,000 to start a coffee shop and selling it for $250,000 four years later, profit/return of $150,000, ROI = 1.5 or 150% (return 1.5 times greater than the initial investment)
