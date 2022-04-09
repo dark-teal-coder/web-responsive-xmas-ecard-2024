@@ -4,6 +4,9 @@ description: Course Summary Notes
 
 # Understanding Business
 
+Dark Theme	![GitHub Light](https://github.com/github-light.png#gh-dark-mode-only)
+Light Theme	![GitHub Dark](https://github.com/github-dark.png#gh-light-mode-only)
+
 Video: Making a Profit
 
 * Profit: amount of money remaining after a company pays all its bills
