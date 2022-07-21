@@ -2,7 +2,7 @@
 description: Course Summary Notes
 ---
 
-# Learning FTP (format not done)
+# Learning FTP
 
 Video: Welcome
 
@@ -74,7 +74,7 @@ Video: Connecting to An FTP Server Using Client Software
   * Browser
   * Operating system itself
 * FileZilla:
-  * Download: [https://filezilla-project.org/](https://filezilla-project.org)
+  * Download: [https://filezilla-project.org/](https://filezilla-project.org/)
   * Site connection information at top: host, username, password & port
   * Site manager: commonly used sites
     * Click \[File] > click \[Site Manager] > click \[New Site] > name a site > enter \[Host] > set \[Port] as 21 > choose \[FTP] for \[Protocol] > enter \[User] > enter \[Password] > click \[OK]
@@ -187,7 +187,7 @@ Video: Exploring SFTP
   * More resilient to different network environments
 * To connect:
   * Type \[sftp] + {username} + \[@] + {domain}
-    * E.g., sftp preesa@example.com
+    * E.g., sftp roxy@example.com
   * To specify a port: type \[sftp] + \[-oPort=] + {option} + {username} + \[@] + {domain}
     * E.g., sftp -oPort=2222 dark.teal.coder@example.com
   * In case @ sign in the username: type \[sftp] + \[-oUser=] + {username} + \[@] + {domain in the username} + {server’s domain}
