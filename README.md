@@ -1,4 +1,4 @@
-# Course List
+## Course List
 
 Here is the list of online courses offered on LinkedIn Learning:&#x20;
 
