@@ -14,7 +14,3 @@ Here is the list of online courses offered on LinkedIn Learning:&#x20;
 * Women Transforming Tech Building Your Brand
 * Women Transforming Tech Career Insights
 * Women Transforming Tech Networking
-
-<br />
-
-*Last modified date: Apr 09, 2022*
