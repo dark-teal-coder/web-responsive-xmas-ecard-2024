@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Developing a YouTube Strategy](README.md)
-* [Giving Your Elevator Pitch](giving-your-elevator-pitch.md)
+* [Giving Your Elevator Pitch](README.md)
 * [Guy Kawasaki on Entrepreneurship](guy-kawasaki-on-entrepreneurship.md)
 * [Learning FTP](learning-ftp.md)
 * [The Practices of High-Performing Employees](the-practices-of-high-performing-employees.md)
