@@ -1,7 +1,6 @@
 # Table of contents
 
-* [Course List](README.md)
-* [43 Ideas for Starting a Side Business](43-ideas-for-starting-a-side-business.md)
+* [43 Ideas for Starting a Side Business](README.md)
 * [5 Personal Financial Tips](5-personal-financial-tips.md)
 * [Developing a YouTube Strategy](developing-a-youtube-strategy.md)
 * [Giving Your Elevator Pitch](giving-your-elevator-pitch.md)
