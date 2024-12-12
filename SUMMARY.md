@@ -6,4 +6,3 @@
 * [Women Transforming Tech Breaking Bias](women-transforming-tech-breaking-bias.md)
 * [Women Transforming Tech Building Your Brand](women-transforming-tech-building-your-brand.md)
 * [Women Transforming Tech Career Insights](women-transforming-tech-career-insights.md)
-* [Women Transforming Tech Networking](women-transforming-tech-networking.md)
