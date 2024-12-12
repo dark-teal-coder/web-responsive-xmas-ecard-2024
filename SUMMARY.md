@@ -1,7 +1,6 @@
 # Table of contents
 
-* [5 Personal Financial Tips](README.md)
-* [Developing a YouTube Strategy](developing-a-youtube-strategy.md)
+* [Developing a YouTube Strategy](README.md)
 * [Giving Your Elevator Pitch](giving-your-elevator-pitch.md)
 * [Guy Kawasaki on Entrepreneurship](guy-kawasaki-on-entrepreneurship.md)
 * [Learning FTP](learning-ftp.md)
