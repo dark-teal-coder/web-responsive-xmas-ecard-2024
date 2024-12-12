@@ -1,7 +1,6 @@
 # Table of contents
 
-* [43 Ideas for Starting a Side Business](README.md)
-* [5 Personal Financial Tips](5-personal-financial-tips.md)
+* [5 Personal Financial Tips](README.md)
 * [Developing a YouTube Strategy](developing-a-youtube-strategy.md)
 * [Giving Your Elevator Pitch](giving-your-elevator-pitch.md)
 * [Guy Kawasaki on Entrepreneurship](guy-kawasaki-on-entrepreneurship.md)
