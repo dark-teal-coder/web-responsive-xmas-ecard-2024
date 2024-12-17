@@ -1,4 +1,4 @@
-# Introduction to Data Analysis Using Microsoft Excel
+# Xmas Card 2024
 
 ## Metadata
 
@@ -8,7 +8,7 @@
 
 ## Project
 
-- **Title**: *Introduction to Data Analysis Using Microsoft Excel*
+- **Title**: *Xmas Card 2024*
 - **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
