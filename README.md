@@ -24,7 +24,7 @@ xxx
 
 ## Credits 
 
-### Contributors 
+### Contributors
 
 - [@dark-teal-coder](github.com/dark-teal-coder)
 
@@ -34,4 +34,4 @@ xxx
 
 &nbsp;
 
-*1st Completion Date: Dec 00, 2024*&emsp;
+*1st Completion Date: Dec 17, 2024*&emsp;
