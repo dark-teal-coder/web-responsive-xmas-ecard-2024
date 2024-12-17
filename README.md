@@ -4,7 +4,7 @@
 
 - <ins>Website Owner</ins>: [@dark-teal-coder](github.com/dark-teal-coder)
 - <ins>First Published Date</ins>: 2024-12-17
-- <ins>Website URL</ins>: https://dark-teal-coder.github.io/web-introduction-to-data-analysis-using-microsoft-excel
+- <ins>Website URL</ins>: https://dark-teal-coder.github.io/web-xmas-card-2024
 
 ## Project
 
