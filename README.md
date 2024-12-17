@@ -1,4 +1,4 @@
-# Responsive Xmas E-card 2024
+# Responsive Xmas E-card 2024 Using GitHub Pages
 
 ## Metadata
 
@@ -8,7 +8,7 @@
 
 ## Project
 
-- **Title**: *Responsive Xmas E-card 2024*
+- **Title**: *Responsive Xmas E-card 2024 Using GitHub Pages*
 - **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
