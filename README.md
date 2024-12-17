@@ -1,4 +1,4 @@
-# Xmas Card 2024
+# Responsive Xmas E-card 2024
 
 ## Metadata
 
@@ -8,7 +8,7 @@
 
 ## Project
 
-- **Title**: *Xmas Card 2024*
+- **Title**: *Responsive Xmas E-card 2024*
 - **Difficulty**:
   - [x] Beginner
   - [ ] Intermediate
