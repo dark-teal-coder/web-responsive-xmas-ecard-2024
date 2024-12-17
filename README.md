@@ -20,7 +20,7 @@
 
 ## Repository Description
 
-xxx
+The idea for this project came from my other project of a birthday e-card using the Amazon Web Services (AWS) S3 feature. See the [e-card here](http://larissa-birthday-2024.s3-website-us-east-1.amazonaws.com). It took me slightly over an hour to make this quick static but responsive website (with HTML) from scratch and another half an hour to learn how to host it on AWS S3. Then, I learned how to turn a GitHub repo into a website using GitHub Pages and decided to make a similar Xmas e-card using this feature. I've slightly modified the original code from my other project to make the Xmas e-card.
 
 ## Credits 
 
