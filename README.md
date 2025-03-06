@@ -33,6 +33,7 @@ The idea for this project came from my other project of a birthday e-card using 
 ### References 
 
 - [Creating a GitHub Pages Site](https://docs.github.com/en/pages/getting-started-with-github-pages/creating-a-github-pages-site)
+- [QR Code Generator](https://me-qr.com/)
 
 &nbsp;
 
